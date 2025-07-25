@@ -236,6 +236,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
     Vector3 cameraTranslate { 0.0f, 12.0f, 40.0f };
     Vector3 cameraRotate { -0.3f, 0.0f, 0.0f };
 
+
     // Box A
     Box boxA;
     boxA.center = { -1.5f, 1.0f, 0.0f };
